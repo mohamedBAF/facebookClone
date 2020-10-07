@@ -1,0 +1,7 @@
+.widget{
+    display: flex;
+    float: 1px;
+    flex-direction: column;
+ padding-right: 40px;
+ 
+}
